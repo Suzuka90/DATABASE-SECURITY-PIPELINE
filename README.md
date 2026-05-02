@@ -39,7 +39,7 @@ Demo: 2 versioni fianco a fianco <br>
 
 ## 🧪 Test SQL Injection
 ✅ VULNERABILE <br>
-✅ SICURO: <br>
+✅ SICURO: 
 → "Invalid query" – BLOCCATO! 
 
 <br>
@@ -54,7 +54,7 @@ Demo: 2 versioni fianco a fianco <br>
 <br>
 
 ## 🎓 OWASP Top 10
-A03:2021 – Injection (SQLi)
+Injection (SQLi) <br>
 Hands-on demo + fix implementati
 
 <br>
